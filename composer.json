@@ -3,6 +3,7 @@
 	"description": "Gereenciador de pastas e arquivos bucket na aws",
 	"type": "library",
 	"license": "GPL-3.0-or-later",
+        "version":"1.0",
 	"author": [{
 		"name": "Mario Augusto Soares da Silva",
 		"email": "marioliteci@gmail.com"
