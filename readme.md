@@ -26,6 +26,7 @@ use Aws;
  *
  * @author Usuario
  */
-class Pacotes_PHP {
 
+class Pacotes_PHP {
+}
 ´´´
