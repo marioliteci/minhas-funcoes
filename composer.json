@@ -13,6 +13,7 @@
     },
     "minimum-stability": "dev",
     "require": {
+        "PHP":">=7.0",
         "slim/slim": "^3.0",       
         "aws/aws-sdk-php": "^3.106"
     }
