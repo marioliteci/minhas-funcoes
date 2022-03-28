@@ -1,17 +1,19 @@
 {
-	"name": "marioliteci/minhas-funcoes",
-	"description": "Gereenciador de pastas e arquivos bucket na aws",
-	"type": "library",
-	"authors": [{
-		"name": "Mario Augusto Soares da Silva",
-		"email": "marioliteci@gmail.com"
-	}],
-	"autoload": {
-		"psr-4": {
-			"MarioLiteci\\MinhasFuncoes\\": "src/"
-		}
-	},
-	"require": {
-	}
-
+    "name": "marioliteci/minhas-funcoes",
+    "description": "Gereenciador de pastas e arquivos bucket na aws",
+    "type": "library",
+    "authors": [{
+            "name": "Mario Augusto Soares da Silva",
+            "email": "marioliteci@gmail.com"
+        }],
+    "autoload": {
+        "psr-4": {
+            "MarioLiteci\\MinhasFuncoes\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "slim/slim": "^3.0",       
+        "aws/aws-sdk-php": "^3.106"
+    }
 }
