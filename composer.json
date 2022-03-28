@@ -1,0 +1,21 @@
+{
+	"name": "marioliteci/minhas-funcoes",
+	"description": "Gereenciador de pastas e arquivos bucket na aws",
+	"type": "library",
+	"license": "GPL-3.0-or-later",
+	"author": [{
+		"name": "Mario Augusto Soares da Silva",
+		"email": "marioliteci@gmail.com"
+	}],
+	"autoload": {
+		"psr-4": {
+			"MarioLiteci\\MinhasFuncoes\\": "src/"
+		}
+	},
+	"require": {
+		"php": ">=7.0",
+		"aws/aws-sdk-php": "^3.106",
+		"slim/slim": "^3.0"
+	}
+
+}
