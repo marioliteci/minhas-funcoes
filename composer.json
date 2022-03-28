@@ -2,6 +2,7 @@
     "name": "marioliteci/minhas-funcoes",
     "description": "Gereenciador de pastas e arquivos bucket na aws",
     "type": "project",
+    "license":"MIT",
     "authors": [{
             "name": "Mario Augusto Soares da Silva",
             "email": "marioliteci@gmail.com"
